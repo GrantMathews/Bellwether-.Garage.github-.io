@@ -423,7 +423,22 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 48px;
    color: #95A3A3;
 }
-
+#portfolio h2 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: black;
+}
+#portfolio h3 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: ;
+}
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
@@ -639,7 +654,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials1 {
-   background: #161415 url(../images/Bikes/bmwr96.jpg) no-repeat top center;
+   background: #161415 url(../images/Bikes/r75.jpeg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
